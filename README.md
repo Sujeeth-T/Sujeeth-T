@@ -54,5 +54,11 @@
 > "The best way to predict the future is to invent it." — Alan Kay
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI Programmer">
+</p>
+
 *By Sujeeth*
+
+
 
