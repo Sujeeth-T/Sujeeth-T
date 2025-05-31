@@ -14,7 +14,7 @@
 - 🎓 Final year ECE student at M. Kumarasamy College of Engineering
 - 💡 Passionate about <strong>Programming, Machine Learning, Full Stack</strong>
 - 🌱 Always learning new tech and tools to level up
-- 💬 Ask me about <code>Java</code>, <code>Python</code>, <code>Python</code>, <code>HTML</code>, and <code>CSS</code>
+- 💬 Always Ready to Work on <code>Java</code>, <code>Python</code>, <code>Python</code>, <code>HTML</code>, and <code>CSS</code>
 - 📫 Reach me @ : <a href="mailto:sujeeththirugnanam@example.com">sujeeththirugnanam@example.com</a>
 
 ---
